@@ -21,7 +21,6 @@ GIT REBASE AND ITS COMMAND:
 GIT REBASE is a command that is use to move or combine sequence of commits to a new base commit so that it looks like they have been created their branch from a different commit.
 
 COMMAND: 
-''' bash
 git rebase <README>
 
 GIT CHERRY-PICK AND ITS COMMAND
