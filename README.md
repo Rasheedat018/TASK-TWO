@@ -1,6 +1,7 @@
 # TASK-TWO
 
 VERSION CONTROL:
+
 Version control can also be known as source control or revision control or source code, is a practice that is used for tracking, controlling, organising and managing changes to software code. Version control serves as a safety net to protect the source code from irreparable harm.
 
 DIFFERENCE BETWEEN GIT AND GITHUB:
@@ -18,12 +19,13 @@ While;  GIT PULL command is used to fetch all changes from the remote resporitor
 
 GIT REBASE AND ITS COMMAND:
 GIT REBASE is a command that is use to move or combine sequence of commits to a new base commit so that it looks like they have been created their branch from a different commit.
+
 COMMAND: 
 ''' bash
 git rebase <README>
 
 GIT CHERRY-PICK AND ITS COMMAND
 GIT CHERRY-PICK command is used to allow you apply specific commits from one branch to another, without merging the entire branch. 
+
 COMMAND:
-git cherry-pick <commit-hash>
 git cherry-pick <commit-hash>
