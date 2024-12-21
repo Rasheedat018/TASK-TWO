@@ -12,6 +12,7 @@ GITHUB ALTERNATIVES:
 3. Harness
 
 DIFFERENCE BETWEEN GIT FETCH AND GIT PULL:
+
 GIT FETCH command is used to retrieve the latest commit history from the remote repository which does not affect the local working directory. Git fetch enables yoy to continue editing files in your local working directory without having to merge  your code with updates from the remote repo.  
 While;  GIT PULL command is used to fetch all changes from the remote resporitory to the current working directory. It automatically try to merge or rebase them into your current working direction. Git pull is suitable for quickly reflecting remote changes in the local branch with caution needed because it can lead to conflicts especially ehen working with multiple people.
 
